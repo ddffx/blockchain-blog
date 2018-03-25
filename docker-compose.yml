@@ -1,0 +1,10 @@
+hugo:
+  image: jojomi/hugo:latest
+  volumes:
+    - ./src/:/src
+    - ./docs/:/output
+  environment:
+    - HUGO_REFRESH_TIME=3600
+    - HUGO_THEME=minimo
+    - HUGO_BASEURL=ddffx.github.io
+  restart: always
