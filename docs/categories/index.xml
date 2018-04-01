@@ -2,12 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on All things blockchain</title>
-    <link>ddffx.github.io/categories/</link>
+    <link>//ddffx.github.io:1313/blockchain-blog/categories/</link>
     <description>Recent content in Categories on All things blockchain</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="ddffx.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//ddffx.github.io:1313/blockchain-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Features</title>
+      <link>//ddffx.github.io:1313/blockchain-blog/categories/features/</link>
+      <pubDate>Wed, 07 Feb 2018 19:15:00 +0600</pubDate>
+      
+      <guid>//ddffx.github.io:1313/blockchain-blog/categories/features/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -3,22 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>ddffx.github.io/</loc>
+    <loc>//ddffx.github.io:1313/blockchain-blog/posts/wsj-cio-journal-what-is-blockchain/</loc>
+    <lastmod>2018-02-09T16:15:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//ddffx.github.io:1313/blockchain-blog/</loc>
+    <lastmod>2018-02-09T16:15:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>ddffx.github.io/authors/</loc>
+    <loc>//ddffx.github.io:1313/blockchain-blog/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>ddffx.github.io/categories/</loc>
+    <loc>//ddffx.github.io:1313/blockchain-blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>ddffx.github.io/tags/</loc>
+    <loc>//ddffx.github.io:1313/blockchain-blog/authors/ddffx/</loc>
+    <lastmod>2018-02-09T16:15:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//ddffx.github.io:1313/blockchain-blog/categories/features/</loc>
+    <lastmod>2018-02-09T16:15:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//ddffx.github.io:1313/blockchain-blog/posts/</loc>
+    <lastmod>2018-02-09T16:15:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//ddffx.github.io:1313/blockchain-blog/tags/primer/</loc>
+    <lastmod>2018-02-09T16:15:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//ddffx.github.io:1313/blockchain-blog/tags/</loc>
+    <lastmod>2018-02-09T16:15:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,4 +1,4 @@
-baseURL = "http://ddffx.github.io"
+baseURL = "http://ddffx.github.io/blockchain-blog"
 title = "All things blockchain"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""

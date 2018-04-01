@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>All things blockchain</title>
-    <link>//ddffx.github.io:1313/blockchain-blog/</link>
-    <description>Recent content on All things blockchain</description>
+    <title>Features on All things blockchain</title>
+    <link>//ddffx.github.io:1313/blockchain-blog/categories/features/</link>
+    <description>Recent content in Features on All things blockchain</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 07 Feb 2018 19:15:00 +0600</lastBuildDate>
     
-	<atom:link href="//ddffx.github.io:1313/blockchain-blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//ddffx.github.io:1313/blockchain-blog/categories/features/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
